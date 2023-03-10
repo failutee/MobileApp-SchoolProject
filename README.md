@@ -1,6 +1,7 @@
 # About
-Mobile application with API based on FrontEnd-ReactNative and API-JavaSpring for a school project.
-None of the people contained in example_data.sql are associated with this project names and surnames were randomly generated.
+A mobile application with an API that downloads the data of various people and their cars. The API was written in JavaSpring and the Mobile Application in ReactNative.
+
+*None of the people contained in example_data.sql are associated with this project names and surnames were randomly generated.*
 
 # Requirements
 Java 17+
