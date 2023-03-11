@@ -28,7 +28,7 @@ async function handleScreen(navigation) {
     }
 
     try {
-      const response = await fetch('http://192.168.0.2:8080/api/v1/person/getAllPersons', {
+      const response = await fetch(`http://127.0.0.1:8080/api/v1/person/getAllPersons`, {
         method: 'GET'
       });
 
