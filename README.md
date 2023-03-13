@@ -1,5 +1,5 @@
 # About
-A mobile application with an API that downloads the data of various people and their cars. The API was written in JavaSpring and the Mobile Application in ReactNative.
+A mobile application with an API that downloads the data of various people and their cars. The API was written in Java (Spring) and the Mobile Application in React-Native.
 
 *None of the people contained in example_data.sql are associated with this project names and surnames were randomly generated.*
 
